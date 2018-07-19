@@ -1,6 +1,6 @@
-# SJTU-F033572-Data-Image-Processing
+# SJTU-F033572-Digital-Image-Processing
 
-SJTU-2017 Autumn-Data Image Processing-Homework
+SJTU-2017 Autumn-Digital Image Processing-Homework
 
 #### Problem Set:
 
