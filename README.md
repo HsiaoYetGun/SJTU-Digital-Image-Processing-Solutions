@@ -1,4 +1,4 @@
-# SJTU-F033572-Digital-Image-Processing
+# SJTU-F033572-Digital-Image-Processing-Solutions
 
 SJTU-2017 Autumn-Digital Image Processing-Homework
 
